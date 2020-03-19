@@ -1,0 +1,16 @@
+baseURL = "/"
+title = "My Portfolio"
+theme = "github-style"
+copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
+
+[params]
+  author = "Takuya Chida"
+  description = "Cloud Security Engineer"
+  github = "si1242"
+  twitter = "si1242"
+  # misskey = "user profile url"
+  # mastodon = "user profile url"
+  email = "takuya.chida.mn@gmail.com"
+  utterances = "example/example.github.io"
+  avatar = "https://qiita-user-profile-images.imgix.net/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fqiita-image-store%2F0%2F166931%2F82165bf0367c47b2008eea96ba1bb227e059dffe%2Flarge.png%3F1575459842?ixlib=rb-1.2.2&auto=compress%2Cformat&lossless=0&w=300&s=387012888b474f1ec7fcfa2c7e6887b2"
+  url = "https://qiita.com/si1242"
