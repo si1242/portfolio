@@ -1,4 +1,4 @@
-baseURL = "https://si1242/github.io/portfolio"
+baseURL = "https://si1242/github.io/portfolio/"
 title = "My Portfolio"
 theme = "github-style"
 copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
