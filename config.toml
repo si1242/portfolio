@@ -3,7 +3,7 @@ title = "My Portfolio"
 theme = "github-style"
 copyright = "© 2019. Theme by <a href=\"https://github.com/MeiK2333/github-style\"><span>github-style</span></a>"
 
-publishDir = "public"
+publishDir = "docs"
 
 
 [params]
