@@ -3,15 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://si1242.github.io/portfolio/posts/</loc>
+    <lastmod>2020-04-11T14:56:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://si1242.github.io/portfolio/posts/works/</loc>
+    <lastmod>2020-04-11T14:56:52+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://si1242.github.io/portfolio/posts/portfolio/</loc>
+    <lastmod>2020-04-11T14:55:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://si1242.github.io/portfolio/about/</loc>
+    <lastmod>2020-04-11T14:52:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://si1242.github.io/portfolio/</loc>
+    <lastmod>2020-04-11T14:52:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://si1242.github.io/portfolio/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://si1242.github.io/portfolio/tags/</loc>
   </url>
   
 </urlset>

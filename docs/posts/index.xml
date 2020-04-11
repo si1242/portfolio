@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
-    <link>https://si1242.github.io/portfolio/</link>
-    <description>Recent content on My Portfolio</description>
+    <title>Posts on My Portfolio</title>
+    <link>https://si1242.github.io/portfolio/posts/</link>
+    <description>Recent content in Posts on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2019. Theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 14:52:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2020 14:56:52 +0900</lastBuildDate>
     
-	<atom:link href="https://si1242.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://si1242.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -33,15 +33,6 @@
   GCP
   Azure
   Hobbies  Beer🍺 mahjong🀄️ Running🏃‍♀️  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://si1242.github.io/portfolio/about/</link>
-      <pubDate>Sat, 11 Apr 2020 14:52:05 +0900</pubDate>
-      
-      <guid>https://si1242.github.io/portfolio/about/</guid>
-      <description>test</description>
     </item>
     
   </channel>
