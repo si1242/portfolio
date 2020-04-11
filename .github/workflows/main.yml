@@ -33,7 +33,7 @@ jobs:
     - name: Generate static HTML by hugo
       run: hugo
 
-    - users: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v1
       with:
         name: hugo output
         path: ./public/
